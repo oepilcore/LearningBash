@@ -1,4 +1,4 @@
 #!/bin/bash
-salam=Hallo
-name=StudiDevOps
+salam=Hai
+name=oepilcore
 echo $salam $name
