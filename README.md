@@ -1,2 +1,7 @@
 # LearningBash
-This Repository was created because its related to StudiDevOps - Session 9 Task.
+ __    ____   __   ____  __ _  __  __ _   ___    ____   __   ____  _  _ 
+(  )  (  __) / _\ (  _ \(  ( \(  )(  ( \ / __)  (  _ \ / _\ / ___)/ )( \
+/ (_/\ ) _) /    \ )   //    / )( /    /( (_ \   ) _ (/    \\___ \) __ (
+\____/(____)\_/\_/(__\_)\_)__)(__)\_)__) \___/  (____/\_/\_/(____/\_)(_/
+
+This Repository was created because it's related to StudiDevOps - Session 9 Task.
